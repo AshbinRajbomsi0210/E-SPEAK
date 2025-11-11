@@ -189,4 +189,8 @@ const PhotoUpload = ({ photos, onPhotosChange }) => {
   );
 };
 
+<<<<<<< HEAD
 export default PhotoUpload;
+=======
+export default PhotoUpload;
+>>>>>>> 4972ed4a2258da8fe6327694f34602ca73563963

@@ -182,4 +182,8 @@ const ProgressIndicator = ({ formData }) => {
   );
 };
 
+<<<<<<< HEAD
 export default ProgressIndicator;
+=======
+export default ProgressIndicator;
+>>>>>>> 4972ed4a2258da8fe6327694f34602ca73563963
